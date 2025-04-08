@@ -1,0 +1,9 @@
+path: C:/Users/jlomb/Documents/PersonalProjects/MPExtensions/modeling/yolo/
+train: train_complete/images
+val: valid_complete/images
+
+names:
+ 0: boulder
+
+# mosaic: 0.3
+# mixup: 0.1
